@@ -36,3 +36,19 @@ Semafori, rotonde e precedenze… al test per la patente, la domanda sugli incro
         ? SE: ci sono macchine che stanno arrivando tagliandomi la strada
             - aspetto che non ci siano più macchine alla mia destra
         - ALTRIMENTI: posso completare l'attraversamento
+
+## Aprire un pacchetto di figurine
+
+Ce l’ho, mi manca!
+Che emozione, ogni volta che apro un pacchetto nuovo... chissà se troverò quella figurina così rara!
+Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’album: attacco subito quelle nuove, mentre le doppie le metto in un mazzetto a parte. Ormai ne sto accumulando diverse, spero di riuscire a combinare diversi scambi sabato con i miei amici! 
+
+- Vado in edicola e compro un pacchetto di figurine
+- Apro il pacchetto
+- Sfilo le figurine dal pacchetto
+- Mi passo tra le mani le figurine
+- PER OGNI figurina RIPETO le seguenti operazioni:
+    - sfoglio l'album cercando il numero corrispondente alla figurina per vedere se è già presente 
+        - ? SE è già presente, la metto nel mazzo delle figurine doppie
+        - ALTRIMENTI la incollo sull'album
+- FINCHE' non ho esaurito tutte le figurine del pacchetto.
